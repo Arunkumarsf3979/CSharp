@@ -1,0 +1,15 @@
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\bin\Debug\net6.0\Question2.exe
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\bin\Debug\net6.0\Question2.deps.json
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\bin\Debug\net6.0\Question2.runtimeconfig.json
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\bin\Debug\net6.0\Question2.dll
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\bin\Debug\net6.0\Question2.pdb
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\Question2.csproj.AssemblyReference.cache
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\Question2.AssemblyInfoInputs.cache
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\Question2.AssemblyInfo.cs
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\Question2.csproj.CoreCompileInputs.cache
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\Question2.dll
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\refint\Question2.dll
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\Question2.pdb
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\Question2.genruntimeconfig.cache
+D:\ArunKumar\C#\HomeAssignment\WhileStatement\Question2\obj\Debug\net6.0\ref\Question2.dll
